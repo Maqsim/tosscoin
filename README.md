@@ -4,6 +4,8 @@
 
 <img src="https://media.giphy.com/media/8MWdaFQEYEicGIkfHU/giphy.gif" width="200">
 
+![GIF](https://media.giphy.com/media/Q8C51W6GJrKWqZExq7/giphy-downsized.gif)
+
 Try it:
 ```shell
 npx tosscoin
