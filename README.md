@@ -12,5 +12,5 @@ npx tosscoin
 ## Why?
 
 - Sometimes it is hard to decide on something – just toss a coin
-- NPM needs one more 3-line package
+- NPM needs one more 3-line code package
 - Just for fun
