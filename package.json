@@ -1,10 +1,9 @@
 {
   "name": "tosscoin",
-  "version": "1.0.2",
+  "version": "1.0.9",
   "description": "Toss a coin in command line",
   "main": "index.js",
   "bin": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,6 +25,8 @@
     "url": "https://github.com/Maqsim/tosscoin/issues"
   },
   "homepage": "https://github.com/Maqsim/tosscoin#readme",
+
   "dependencies": {
+    "play-sound": "^1.1.6"
   }
 }

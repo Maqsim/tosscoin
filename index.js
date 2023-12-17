@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
-import { exec } from 'child_process';
-import { randomBytes } from 'crypto';
+const player = require('play-sound')();
+const { randomBytes } = require('crypto');
 
-// Play audio effect (MacOS only)
-exec('afplay fx.wav');
+// Play FX sound
+player.play(`${__dirname}/fx.wav`);
 
 console.log('tossing a coin...');
 
