@@ -12,11 +12,11 @@
     "url": "git+https://github.com/Maqsim/tosscoin.git"
   },
   "keywords": [
+    "cli",
+    "fun",
     "toss coin",
     "coin simulator",
     "flip coin",
-    "random coin",
-    "command line coin",
     "cli coin simulator"
   ],
   "author": "Max Diachenko",
